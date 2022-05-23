@@ -1,0 +1,8 @@
+{
+    "username":"Abdullah",
+    "location":{
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "country": "India"
+    }
+}

@@ -1,0 +1,133 @@
+
+[
+    {
+        "id":1,
+        "image": "https://images.unsplash.com/photo-1645432524571-0e469b22e43f?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fHJvdGl8ZW58MHx8MHx8&auto=format&fit=crop&w=500",
+        "name": "Chaitanya Parathas",
+        "category": [
+        "North India",
+        "Punjabi",
+        "Chinese",
+        "Thalis Combo",
+        "Beverages"
+        ],
+        "rating": 4,
+        "deliveryTimings": 20,
+        "costfortwo": 2000,
+        "offer": ["20% off", "Use TRYNEW"]
+    },
+
+
+    {
+        "id":2,
+        "image" : "https://media.istockphoto.com/photos/stuffed-paratha-picture-id1205762531?k=20&m=1205762531&s=612x612&w=0&h=bjZJqxjNXAns4OCb2kS69PZRgxfeDtFFhTkomPPsfSI=" ,
+        "name": "lavanya Parathas",
+        "category": [
+        "North India",
+        "Punjabi",
+        "Chinese",
+        "Thalis Combo",
+        "Beverages"
+        ],
+        "rating": 2,
+        "deliveryTimings": 30,
+        "costfortwo": 1000,
+        "offer": ["20% off", "Use TRYNEW"]
+    },
+    {
+        "id":3,
+        "image" : "https://media.istockphoto.com/photos/daikon-radish-mooli-or-muli-paratha-or-stuffed-radish-paratha-indian-picture-id682482514?k=20&m=682482514&s=612x612&w=0&h=Tp6tpdGY3mso92DHmxuYju1dMwpNSR-03R8En4tePjk=" ,
+        "name": "Ananya Parathas",
+        "category": [
+        "North India",
+        "Punjabi",
+        "Chinese",
+        "Thalis Combo",
+        "Beverages"
+        ],
+        "rating": 4.3,
+        "deliveryTimings": 25,
+        "costfortwo": 500,
+        "offer": ["20% off", "Use TRYNEW"]
+    },
+    {
+        "id":4,
+        "image" : "https://media.istockphoto.com/photos/image-of-metal-tray-with-aloo-paratha-pile-topped-with-red-onion-and-picture-id1279134622?k=20&m=1279134622&s=612x612&w=0&h=vS7j0sxTM3is4mOHVQenS_X7Lbnk6rbb63Bzm6rgVcs=" ,
+        "name": "Aishwariya Parathas",
+        "category": [
+        "North India",
+        "Punjabi",
+        "Chinese",
+        "Thalis Combo",
+        "Beverages"
+        ],
+        "rating": 1.4,
+        "deliveryTimings": 40,
+        "costfortwo": 200,
+        "offer": ["20% off", "Use TRYNEW"]
+    },
+    {
+        "id":5,
+        "image" : "https://media.istockphoto.com/photos/onion-parotha-pyaj-parantha-kanda-paratha-picture-id1200686010?k=20&m=1200686010&s=612x612&w=0&h=wXVxFSLV0F2xK4QlPR0eXOzOX8OjQK-wWZY_vogR8dU=" ,
+        "name": "sunanya Parathas",
+        "category": [
+        "North India",
+        "Punjabi",
+        "Chinese",
+        "Thalis Combo",
+        "Beverages"
+        ],
+        "rating": 2.4,
+        "deliveryTimings": 20,
+        "costfortwo": 100,
+        "offer": ["20% off", "Use TRYNEW"]
+    },
+    {
+        "id":6,
+        "image" : "https://media.istockphoto.com/photos/indian-paratha-stuffed-with-potatoes-horizontal-top-view-picture-id613016058?k=20&m=613016058&s=612x612&w=0&h=v-CkoyK0rd3rLWNsTw0WfuQqcQ5Ech4IL8XG37qFgZw=" ,
+        "name": "anya Parathas",
+        "category": [
+        "North India",
+        "Punjabi",
+        "Chinese",
+        "Thalis Combo",
+        "Beverages"
+        ],
+        "rating": 4.9,
+        "deliveryTimings": 35,
+        "costfortwo": 50,
+        "offer": ["20% off", "Use TRYNEW"]
+    },
+    {
+        "id":7,
+        "image" : "https://media.istockphoto.com/photos/image-of-breakfast-dish-buffet-pile-of-aloo-parathas-served-on-a-blue-picture-id1208496643?k=20&m=1208496643&s=612x612&w=0&h=_VBkZUD1bCUhjK7WLzgMNYpRQ3dmPnYkVaZCifjtc1E=" ,
+        "name": "Kalyanya Parathas",
+        "category": [
+        "North India",
+        "Punjabi",
+        "Chinese",
+        "Thalis Combo",
+        "Beverages"
+        ],
+        "rating": 5,
+        "deliveryTimings": 30,
+        "costfortwo": 60,
+        "offer": ["20% off", "Use TRYNEW"]
+    },
+    {
+        "id":8,
+        "image" : "https://media.istockphoto.com/photos/whole-wheat-methi-thepla-rolls-with-paneer-capsicum-filling-and-a-of-picture-id1330523075?k=20&m=1330523075&s=612x612&w=0&h=7-HUEfMpAlXSNKa4_r78qK_NfLVKOoNIHMp6kGZ5CQ0=" ,
+        "name": "Chaitanya Parathas",
+        "category": [
+        "North India",
+        "Punjabi",
+        "Chinese",
+        "Thalis Combo",
+        "Beverages"
+        ],
+        "rating": 3,
+        "deliveryTimings": 55,
+        "costfortwo": 20,
+        "offer": ["20% off", "Use TRYNEW"]
+    }
+]
